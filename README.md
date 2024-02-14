@@ -2,6 +2,8 @@
 
 ![image](https://github.com/dotku/nvidia/assets/1519232/51d61367-2a0e-4ceb-bd7b-8e1d3ef1f20a)
 
+![image](https://github.com/dotku/nvidia/assets/1519232/78220b4c-3881-4824-a775-cc5e6b3220e3)
+
 ## Business Units
 
 ![image](https://github.com/dotku/nvidia/assets/1519232/7f50f7c5-30d5-4f26-b464-cc74d1c6b780)
