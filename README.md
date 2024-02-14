@@ -1,5 +1,12 @@
 # nvidia
 
+## Business Units
+
+1. Gaming
+2. Data Center
+3. Auto
+4. Professional Visuliztion
+
 ## Business GPU
 
 1. A800 (China Market only)
