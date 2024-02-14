@@ -2,6 +2,8 @@
 
 ## Business Units
 
+![image](https://github.com/dotku/nvidia/assets/1519232/7f50f7c5-30d5-4f26-b464-cc74d1c6b780)
+
 1. Gaming
 2. Data Center
 3. Auto
