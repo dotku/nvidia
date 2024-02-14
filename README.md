@@ -9,11 +9,12 @@
 3. Auto
 4. Professional Visuliztion
 
-## Business GPU
+## Business
 
 1. A800 (China Market only)
+2. Omniverse (元宇宙业务)
 
-## Super Device
+## Super Tech
 
 1. DGX BasePOD 世界第八超级计算机
 2. CPU Grace Hopper 突破性加速超级芯片
